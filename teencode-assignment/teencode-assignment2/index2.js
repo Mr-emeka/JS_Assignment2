@@ -1,4 +1,4 @@
-
+"use strict"
 //ASSIGMENT 1
 
 
